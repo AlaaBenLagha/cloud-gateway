@@ -1,2 +1,2 @@
 # cloud-gateway
-PFE Project
+Demo Spring Cloud Patterns
